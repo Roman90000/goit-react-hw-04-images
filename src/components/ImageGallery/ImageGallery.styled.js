@@ -4,7 +4,7 @@ export const Container = styled.ul`
   display: grid;
   max-width: calc(100vw - 48px);
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  grid-gap: 16px;
+  grid-gap: 15px;
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 0;
